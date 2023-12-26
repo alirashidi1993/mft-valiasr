@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFT.Training", "MFT.Training\MFT.Training.csproj", "{13FC52AC-BC1B-4132-A96C-EAEDDBBDD8CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13FC52AC-BC1B-4132-A96C-EAEDDBBDD8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13FC52AC-BC1B-4132-A96C-EAEDDBBDD8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13FC52AC-BC1B-4132-A96C-EAEDDBBDD8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13FC52AC-BC1B-4132-A96C-EAEDDBBDD8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8064C35-1BBA-4909-A192-FA43031F3364}
+	EndGlobalSection
+EndGlobal

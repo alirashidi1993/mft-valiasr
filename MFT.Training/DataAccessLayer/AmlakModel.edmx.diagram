@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d21e3f045fd3485b9feb22439e5b492e" Name="Diagram1">
+        <EntityTypeShape EntityType="AmlakModel.Customer" Width="1.5" PointX="8.125" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AmlakModel.Ostan" Width="1.5" PointX="1.125" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AmlakModel.Shahr" Width="1.5" PointX="4.75" PointY="1.375" IsExpanded="true" />
+        <AssociationConnector Association="AmlakModel.FK_Customer_Shahr" ManuallyRouted="false" />
+        <AssociationConnector Association="AmlakModel.FK_Shahr_Ostan" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
